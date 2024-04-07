@@ -1,0 +1,152 @@
+@media only screen and (max-width: 400px) {
+  
+.body-class {
+  height: 2000px;
+  margin-bottom: 25px;
+}
+
+.header {
+  width: 90%;
+  height: 90%;
+}
+
+.title-class {
+  width: 90%;
+  height: 90%;
+}
+
+.phone-number-class {
+  width: 90%;
+  height: 90%;
+}
+
+.time-for-work {
+  width: 90%;
+  height: 90%;
+}
+
+.calendar-element {
+  width: 90%;
+  height: 90%;
+}
+
+.ul-class {
+  width: 90%;
+  height: 90%;
+}
+
+.number-class {
+  width: 90%;
+  height: 90%;
+}
+
+.first-information-class {
+  width: 90%;
+  height: 90%;
+}
+
+.all-grid-class {
+  width: 90%;
+  height: 90%;
+}
+
+.first-grid-class {
+  width: 90%;
+  height: 90%;
+}
+
+.second-grid-class {
+  width: 90%;
+  height: 90%;
+}
+
+.title-of-grid-class {
+  width: 90%;
+  height: 90%;
+}
+
+.second-information-class {
+  background-color: rgb(213, 189, 175);
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25px;
+  font-family: Chivo Mono;
+}
+
+.grid-class-second {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 100px;
+  text-align: center;
+  margin-left: 35px;
+}
+
+.grid-template-class {
+  background-color: rgb(237, 237, 233);
+  padding: 10px 10px 10px 10px;
+  margin-top: 25px;
+  border-radius: 25px;
+}
+
+.text-class {
+  font-size: 25px;
+  font-family: Chivo Mono;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.grid-class-section-two {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 50px;
+}
+
+.template-class {
+  background-color: rgb(213, 189, 175);
+  margin: 0 0 0 0;
+  padding: 10px 10px 10px 10px;
+  border-radius: 12px;
+}
+
+.grid-class-section-three {
+  display: grid;
+  grid-template-columns: 300px 400px;
+  column-gap: 200px;
+}
+
+.template-class-second {
+  background-color: rgb(227, 213, 202);
+  margin: 0 0 0 0;
+  padding: 10px 10px 10px 10px;
+  border-radius: 12px;
+}
+
+.title-class-of-seventh-section {
+  text-align: center;
+}
+
+.list-class {
+  font-family: Chivo Mono;
+}
+
+.center-class {
+  display: flex;
+  justify-content:center ;
+}
+
+.footer-class {
+  background-color: white;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.footer-information {
+  display: flex;
+  justify-content: space-between;
+  font-family: Chivo Mono;
+  font-size: 20px;
+
+}
+
+}

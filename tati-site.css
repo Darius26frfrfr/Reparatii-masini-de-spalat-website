@@ -1,0 +1,171 @@
+
+.body-class {
+  height: 2000px;
+  margin-top: 380px;
+  background-color: rgb(214, 204, 194);
+}
+
+.header {
+  position: absolute;
+  background-color: rgb(237, 237, 233);
+  left: 0;
+  right: 0;
+  top: 0;
+  padding-bottom: 50px;
+}
+
+.title-class {
+  text-align: center;
+  font-size: 50px;
+  font-family: Chivo Mono;
+}
+
+.phone-number-class {
+  display: flex;
+  justify-content: space-around;
+}
+
+.time-for-work {
+  display: inline-block;
+}
+
+.calendar-element {
+  font-size: 25px;
+  margin-left: 13px;
+}
+
+.ul-class {
+  font-family: Chivo Mono;
+  font-size: 25px;
+}
+
+.number-class {
+  font-family: Chivo Mono;
+  font-size: 30px;
+}
+
+.first-information-class {
+  font-size: 30px;
+  font-family: Chivo Mono;
+}
+
+.all-grid-class {
+  display: grid;
+  grid-template-columns: 400px 500px;
+  column-gap: 70px;
+  text-align: center;
+  row-gap: 25px
+  ;
+}
+
+.first-grid-class {
+  background-color: rgb(245, 235, 224);
+  border: none;
+  border-radius: 25px;
+  margin: 0 0 0 0;
+  padding: 5px 5px 5px 25px;
+  font-family: Chivo Mono;
+}
+
+.second-grid-class {
+  background-color: rgb(245, 235, 224);
+  border: none;
+  border-radius: 25px;
+  margin: 0 0 0 0;
+  padding: 5px 5px 5px 25px;
+  font-family: Chivo Mono;
+}
+
+.title-of-grid-class {
+  font-family: Chivo Mono;
+  text-align: center;
+  font-size: 20px;
+}
+
+.second-information-class {
+  background-color: rgb(213, 189, 175);
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25px;
+  font-family: Chivo Mono;
+}
+
+.grid-class-second {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 100px;
+  text-align: center;
+  margin-left: 35px;
+}
+
+.grid-template-class {
+  background-color: rgb(237, 237, 233);
+  padding: 10px 10px 10px 10px;
+  margin-top: 25px;
+  border-radius: 25px;
+}
+
+.text-class {
+  font-size: 25px;
+  font-family: Chivo Mono;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.grid-class-section-two {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  column-gap: 50px;
+}
+
+.template-class {
+  background-color: rgb(213, 189, 175);
+  margin: 0 0 0 0;
+  padding: 10px 10px 10px 10px;
+  border-radius: 12px;
+}
+
+.grid-class-section-three {
+  display: grid;
+  grid-template-columns: 300px 400px;
+  column-gap: 200px;
+}
+
+.template-class-second {
+  background-color: rgb(227, 213, 202);
+  margin: 0 0 0 0;
+  padding: 10px 10px 10px 10px;
+  border-radius: 12px;
+}
+
+.title-class-of-seventh-section {
+  text-align: center;
+  font-size: 25px;
+  font-family: Chivo Mono;
+}
+
+.list-class {
+  font-family: Chivo Mono;
+}
+
+.center-class {
+  display: flex;
+  justify-content:center ;
+  font-family: Chivo Mono;
+}
+
+.footer-class {
+  background-color: white;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.footer-information {
+  display: flex;
+  justify-content: space-between;
+  font-family: Chivo Mono;
+  font-size: 20px;
+
+
+}
